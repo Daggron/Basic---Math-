@@ -1,8 +1,12 @@
 # A basic math formula package 
 
-## this package contains formula for the area and perimeter and volume of shapes in geometry
+### npm i basic-math-by-abhay
 
-### supported formulae are 
+#### this package contains formula for the area and perimeter and volume of shapes in geometry
+
+#### supported formulae are 
+
+
 
 - Circle 
     
